@@ -1,0 +1,2265 @@
+## intent: good_afternoon
+- badsha is saying good afternoon
+- badshah greets good afternoon
+- badshah says good afternoon
+- bollywood king greets good afternoon
+- bollywood king is says good afternoon
+- good afternoon
+- good afternoon sir
+- good noon
+- hope your afternoon is good
+- king khan greets good afternoon
+- king khan is saying good afternoon
+- mr khan greets good afternoon
+- shahrukh sir have a beautiful afternoon
+- shahrukh sir have a good afternoon
+- shahrukh sir have a great afternoon
+- shahrukh sir have a incredible afternoon
+- shahrukh sir have a magical afternoon
+- shahrukh sir have a magnificent afternoon
+- shahrukh sir have a mind blowing afternoon
+- shahrukh sir have a mind boggling afternoon
+- shahrukh sir have a smashing afternoon
+- shahrukh sir have a superb afternoon
+- srk greets good afternoon
+- srk is saying good afternoon
+- very good afternoon sir
+- good afternoon darling
+- good afternoon my lady
+- good afternoon sweetie
+- good afternoon sweety
+- greets good afternoon
+- gud afternoon
+- have a beautiful afternoon
+- have a good afternoon
+- have a great afternoon
+- have a incredible afternoon
+- have a magical afternoon
+- have a magnificent afternoon
+- have a mind blowing afternoon
+- have a mind boggling afternoon
+- have a smashing afternoon
+- have a superb afternoon
+## intent: bot_info_age
+- am i older than you
+- are you younger than me
+- can you give me your age
+- share your birth date
+- can you tell me how old are you
+- give me your age
+- hey how old are you
+- hey whats your age
+- how old did you turn
+- in which year you were born
+- may i know your age
+- tell us your age
+- what is your age
+- what is your birthdate
+- whats your age
+- you sound so old
+- you sound so young
+- your age
+## intent: happy_independence_day
+- happy independence day
+- I want to wish you a happy independence day
+- wish you a happy independence day
+## intent: do_you_act_in_movies_tv_shows
+- have you worked in movies
+- have you worked in tv show
+- have you ever worked in movies
+- have you ever worked in tv show
+- have you acted in any movies or tv shows
+- whether you have acted in any movies or tv shows
+- have you ever acted in any movies or tv shows
+- have you ever worked as actor in any movies or tv shows
+- whether you ever worked as a actor in any movies or tv shows
+- have you ever worked as a actor in any movies or tv shows
+- have you ever performed in any movies or tv shows
+- whether ever you have performed in any movies or tv shows
+- have you ever imitated as a actor in any movies or tv shows
+- whether you have imitated in any movies or tv shows
+- have you imitated in any movies or tv shows
+- have you acted in any movies
+- whether you have acted in any movies
+- have you ever acted in any movies
+- have you ever worked as actor in any movies
+- whether you ever worked as a actor in any movies
+- have you ever worked as a actor in any movies
+- have you ever performed in any movies
+- whether ever you have performed in any movies
+- have you ever imitated as a actor in any movies
+- whether you have imitated in any movies
+- have you imitated in any movies
+- have you acted in any tv shows
+- whether you have acted in any tv shows
+- have you ever acted in any tv shows
+- have you ever worked as actor in any tv shows
+- whether you ever worked as a actor in any tv shows
+- have you ever worked as a actor in any tv shows
+- have you ever performed in any tv shows
+- whether ever you have performed in any tv shows
+- have you ever imitated as a actor in any tv shows
+- whether you have imitated in any tv shows
+- have you imitated in any tv shows
+- have you done any movies
+- have you worked in any movies
+- have you done any shows
+- have you worked in any shows
+- you work in cinemas
+- do you work and cinemas
+- which bengali movie you worked in
+- which movies you are wor in
+- tell me about the movies that you are a part of
+- why did you choose to act
+- are you currently part of some movies
+- which all daily soaps are you currently a part of
+- which movies have you acted in
+- what movies you were in
+- why are you acting
+- have you acted in hindi tv
+- have you acted in bengali tv
+- tv shows you have already acted in
+- what are movies and tv you have acted in
+- movies that you have already worked
+- what is director of your movie
+- what is director of your tv serial
+- have you worked in movies before
+- how many movies have you worked in
+## intent: like_to_do_in_spare_time
+- what should i do in free time
+- what do you do in your free time
+- what you do in your free time
+- do you play in your free time
+- whats your favourite thing you do in your free time
+- what do you like doing in your spare time
+- what you do in your spare time
+- what do you like doing in your unused time
+- what is the work you do in your spare time
+- what is the work you do in your unused time
+- what is the favorite work in your spare time
+- what is the favorite work in your unused time
+- what you will prefer doing in spare time
+- what is the utmost preference thing you like doing in your spare time
+- what is the utmost preference thing you like doing in your unused time
+- what you will do if you get spare time
+- what you always feel to do when you get unused time
+- what you will do if you get unused time
+- what you always feel to do when you get spare time
+- what do you do in your leisure time
+- what you do in your leisure time
+- do you play in your spare time
+- whats your most loved thing you do in your spare time
+- what do you like doing in your extra time
+- what you do in your extra time
+- what is the work you do in your extra time
+- what is the most loved work in your extra time
+- what you do in free time
+- activities you do in free time
+## intent: fav_actress
+- who is your favourite actress
+- what is the name of your favourite actress
+- what is name of your favourite actress
+- can you please tell me your favourite actress
+- please tell me your favourite actress
+- tell me the name of your favourite actress
+- what movie you like the actress
+- name of the movie you like the actress
+- which actress is your favourite
+- please tell me the movie which is your actress
+- can you please tell me name of your favourite actress
+- tell me your favourite actress
+- who is your favorite actress
+- what is the name of your favorite actress
+- what is name of your favorite actress
+- can you please tell me your favorite actress
+- please tell me your favorite actress
+- tell me the name of your favorite actress
+- which actress is your favorite
+- can you please tell me name of your favorite actress
+## intent: do_you_aspire_to_be_a_model
+- tell me how you became a model
+- when did you start modelling
+- did you always aspire to be a model
+- have you always aspire to be a model
+- whether modelling is the only thing you always aspire
+- is there any thing else you aspire for other than modelling always
+- have you aspired modelling always as your career
+- has there been any other thing you aspire for
+- so you always aspire to be a model
+- did you always crave to be a model
+- did you always pursue to be a model
+- did you always strive to be a model
+- did you always yearn to be a model
+- did you always desire to be a model
+- have you always crave to be a model
+- whether modelling is the only thing you always crave
+- is there any thing else you crave for other than modelling always
+- have you craved modelling always as your career
+- has there been any other thing you crave for
+- so you always crave to be a model
+- have you always pursue to be a model
+- whether modelling is the only thing you always pursue
+- is there any thing else you pursue for other than modelling always
+- have you pursued modelling always as your career
+- has there been any other thing you pursue for
+- so you always pursue to be a model
+- have you always strive to be a model
+- whether modelling is the only thing you always strive
+- is there any thing else you strive for other than modelling always
+- have you strived modelling always as your career
+- has there been any other thing you strive for
+- so you always strive to be a model
+- so you always desire to be a model
+- have you always desire to be a model
+- whether modelling is the only thing you always desire
+- is there any thing else you desire for other than modelling always
+- have you desired modelling always as your career
+- has there been any other thing you desire for
+- start your acting career
+- tell me about your career
+- did you start your modelling career
+- tell me something about your career
+- when did you start to sing
+- when did you start acting
+- when did you start your modelling career
+- have you ever dreamed of being a model
+- would you aspire to be a model
+- what are your thought to be a model
+- shall you aspire to be a model
+- will you aspire to be a model
+- do you see yourself as a model in future
+- do you want to be a model
+- would you like to be a model
+- what are the chances for you to become a model
+- have you ever considered yourself of being a model
+- when did you choose the modelling career
+## intent: good_morning
+- have a pleasant morning
+- shahrukh sir good morning
+- badshah good morning
+- barshah wishes evryone a beautiful morning
+- bollywood king good morning
+- bollywood king is says good morning
+- bollywood king wishes evryone a beautiful morning
+- bollywood king wishes pleasant morning
+- good morning
+- good morning sir
+- have a great morning
+- have a wonderful morning
+- hope your morning is good
+- king khan greets good morning
+- king khan is saying good morning
+- morning sir
+- mr khan wishes pleasant morning
+- same to you sir
+- shahrukh good morning
+- shahrukh khan good morning
+- shahrukh khan wishes good morning
+- shahrukh sir a very good morning
+- shahrukh sir have a amazing morning
+- shahrukh sir have a awesome morning
+- shahrukh sir have a beautiful morning
+- shahrukh sir have a fabulous morning
+- shahrukh sir have a fantastic morning
+- shahrukh sir have a great morning
+- shahrukh sir have a lovely morning
+- shahrukh sir have a magical morning
+- shahrukh sir have a magnificent morning
+- shahrukh sir have a mind blowing morning
+- shahrukh sir have a mind boggling morning
+- shahrukh sir have a superb morning
+- shahrukh sir pleasant morning
+- shahrukh sir wishes pleasant morning
+- shahrukh sir wishes to have a beautiful morning
+- srk is saying good morning
+- srk sir wishes evryone a beautiful morning
+- srk wishes morning good
+- very good morning sir
+- a very good morning
+- good morning darling
+- good morning my lady
+- goood morning
+- gooood morning
+- gud morning
+- have a amazing morning
+- have a awesome morning
+- have a beautiful morning
+- have a fabulous morning
+- have a fantastic morning
+- have a lovely morning
+- have a magical morning
+- have a magnificent morning
+- have a mind blowing morning
+- have a mind boggling morning
+- have a superb morning
+- hey good morning
+- pleasant morning
+- sir wishes everyone a beautiful morning
+- wishes everyone a beautiful morning
+## intent: where_do_you_live
+- what city do you belong to
+- what is your origin
+- where you belong to
+- where you stay
+- what is name of the location where you live
+- please give the name of the locality where you live
+- where is your homeland
+- where is your hometown
+- what is name of the location where you stay
+- what is name of the location where you belong to
+- what is your place of origin
+- please provide your nearby landmark
+- what place you belong to
+- what is name of the place you live
+- what is the location of your hometown
+- what is name of the location of your hometown
+- what is the location of your place of origin
+- what is location of the place you live
+- please provide the location of your place of origin
+- what is the landmark of your place of origin
+- where is your houseland
+- where is your housetown
+- what is the location of your housetown
+- what is name of the location of your housetown
+- where is your housingland
+- where is your housingtown
+- what is the location of your housingtown
+- what is name of the location of your housingtown
+- where is your my homeland
+- where is your my hometown
+- what is the location of your my hometown
+- what is name of the location of your my hometown
+- where is your my houseland
+- where is your my housetown
+- what is the location of your my housetown
+- what is name of the location of your my housetown
+- where do you stay
+- what do you stay
+- where do you live
+- tel me about your home location
+- tell me about your shelter
+- where can i find your home location
+- where do you remain
+- tel me about your home area
+- inform me regarding your asylum
+- where would i be able to locate your home area
+- where is your house
+- where are you from
+- may i know where are you from
+## intent: fav_song
+- which is your favourite song
+- what is the name of your favourite song
+- can you please tell me your favourite song
+- please tell me your favourite song
+- tell me the name of your favourite song
+- what song you like the most
+- name of the song you like the most
+- which song is your favourite
+- please tell me the song which is your favourite
+- can you please tell me name of your favourite song
+- if you could hear one song for the rest of your life what would it be
+- which song would you dedicate to your wife
+- what all songs do you like to listen
+- dedicate a song to your wife
+- are you a bathroom singer
+- which is your favourite music
+- what all music do you like to listen
+- favourite song
+- which is your favorite song
+- what is the name of your favorite song
+- can you please tell me your favorite song
+- please tell me your favorite song
+- tell me the name of your favorite song
+- which song is your favorite
+- please tell me the song which is your favorite
+- can you please tell me name of your favorite song
+- which is your favorite music
+- dedicate a song
+- which song do you like
+- tell me your favourite song
+## intent: sing_song
+- i want you to sing any song
+- can you sing any song
+- i want to hear your song
+- can i hear any song
+- can you sing songs
+- please sing song
+- please sing any song
+- i want to hear you song nimika
+- i want to hear you song nimica
+- will you sing a song for me
+- come on nimika sing a song
+- come on nimica sing a song
+- sing any song please
+- would you be able to sing a tune
+- i need you to sing any tune
+- would you be able to sing any melody
+- if you dont mind sing a tune
+- i need to hear your tune
+- would i be able to hear any melody
+- would you be able to sing tunes
+- if its not too much trouble sing tune
+- if you dont mind sing any melody
+- i need to hear you tune nimika
+## intent: bot_hi
+- any excitement recently
+- badsha is says hello
+- badsha is says hey whats up
+- bollywood king is says hello
+- bollywood king is says hey whats up
+- do you have an moment
+- greet me
+- hello
+- hello there
+- hello whats up
+- hey
+- hey there
+- hi
+- hi shahrukh
+- hi there
+- hola whats up
+- id like to hear from you
+- king khan is saying hello
+- king khan is saying whats up
+- long time no see
+- nice sir
+- say hello
+- say hi
+- wassup
+- well hello there
+- whats cooking
+- whats new
+- whats up
+- you all right
+- whats up with you
+- hello assistant
+- hello dear
+- hello hello hello
+- hello pagal
+- hey baby
+- hey man
+- hey whats up
+- hey whats up bro
+- hey whats up dude
+- hey whats up man
+- hi dear
+- hi hello
+- hi lady
+- hi man
+- howdy babe
+- howdy babes
+- wassup girl
+- wassup lady
+- wassup man
+- wassup my lady
+- wassup with you
+- what is up with you
+- whats up bro
+- whats up dude
+- whats up girl
+- whats up man
+- whats up my darling
+- whats up my lady
+- yo wassup
+## intent: your_school
+- your school name
+- which school did you study
+- where you have done your schooling
+- which is the school you have studied
+- what is the name of the school you have attended
+- where did you do your schooling
+- what is the name of the school you have taken
+- which is the school you have been associated
+- what is the name of the school you have been associated
+- which is the school you have visited
+- what is the name of the school you have visited
+- what is the name of the institute you have visited during schooling
+- what is the name of the institute you have been associated during schooling
+- what is the name of the institute you have been taken during schooling
+- what is the name of the institute you have been attended during schooling
+- are you educated
+- are you literate
+- school in which you have studied
+- tell me about your schooling
+- you studied in which school
+- where your schooling happens
+- name of school you have studied in
+- you have been associated with which school
+- school name you have attended
+- you have visited which school
+- are you done with your school
+- institute name in which you have studied
+- institute name you have been associated with
+- your schooling happened in which institute
+- are you associated with any institute during your schooling
+- are you well educated
+- are you iliterate
+- where did you study
+- where did you complete your studies
+- in which school did you study
+- where have you done your schooling from
+- which school did you attend
+- you were affiliated to which school
+- what was the school that you went into
+- you were affiliated to which college
+- in which school have you done your schooling
+- which is the school that you had taken admission into
+- which is the college that you had taken admission into
+- which is the college that you got yourself admitted into
+- which is the school that you got yourself admitted into
+- anamika which college you studied in
+- neemika which school did you attend
+- from where you obtained your schooling
+- which college are you affiliated to
+- which was the school that you attended
+- what is your education
+- how much have you studied what is your education
+- school that you got yourself conceded into
+- you got yourself conceded into which school
+- which school you examined in
+- which school did you go to
+- from where you got your tutoring
+- which school are you associated to
+- which was the school that you went to
+- what is your training
+- what amount have you considered what is your training
+- school where did you study
+- what is your school name
+## intent: where_are_you_right_now
+- tell your location you are right now
+- share your exact location you are right now
+- tell me your position you are currently there
+- where are you presently
+- tell your present location where you are currently
+- share your exact location you are currently present
+- tell me your position where you are at this moment
+- where are you at this moment
+- tell your present location where you are at this moment
+- tell me where are you at this moment
+- share your exact location you are present at this moment
+- hey tellme where are you
+- tell your location
+- share your exact location
+- share your exact location you are
+- whats your location
+- where are you right now
+- where areyou now
+- tell me your location
+- let me know your location
+- where can i find you now
+- where are you at the present time
+- reveal to me your area
+- tell me your area
+- where would i be able to discover you now
+- hi where are you now
+## intent: user_flirt
+- are you trying to flirt with me
+- are you flirting with me
+- flirting me
+- are you trying to hit on me
+- are you hitting me
+- hitting on me
+## intent: what_do_you_do
+- what do you do or can you please tell me something about yourself
+- what work do you do or please tell me about yourself
+- what is the source of your income or please tell me about you
+- can you please tell me your source of income or please notify me about yourself
+- what is the work to which your are employed or can you please notify me about yourself
+- can you please tell me the work to which you are employed or can you please tell me about you
+- what work you do or can you please tell me something about yourself
+- what work serves as a source of income to you or please tell me about yourself
+- what is your job or please tell me about you
+- can you please tell me the job you do or can you please tell me about you
+- what is your occupation or can you please tell me about yourself
+- what occupation is your source of income or please tell me about yourself
+- can you please tell me your occupation or please notify me about yourself
+- what work are you employed to or can you please tell me something about yourself
+- can you please tell me the work your are employed to or please tell me about yourself
+- what is your job
+- whats your job
+- what is your profession
+- what is the work to which your are utilized or would you be able to please tell me about yourself
+- would you be able to please disclose to me the work to which you are utilized or would you be able to please enlighten me concerning you
+- what work you do or would you be able to please disclose to me something important to you
+- what work fills in as a wellspring of pay to you or please inform me concerning yourself
+- what is your activity or please inform me concerning you
+- would you be able to please reveal to me the activity you do or would you be able to please inform me concerning you
+- what is your occupation or would you be able to please enlighten me regarding yourself
+- what occupation is your wellspring of salary or please educate me concerning yourself
+- would you be able to please reveal to me your occupation or please tell me about yourself
+- what work are you utilized to or would you be able to please reveal to me something important to you
+## intent: bot_compliment_love
+- as a person you are lovely
+- i am so fond of you
+- i am your biggest fan
+- i just love how you look
+- i love the way you are
+- i love the way you speak
+- i love to watch you on screen
+- i love you
+- i love you a lot
+- i love you to the core
+- i love you to the moon and back
+- i love your dimples
+- i love your sense of dressing
+- i love your sense of humour
+- i adore you srk
+- i adore you truly do
+- i am attached to you shahrukh
+- i am fond of you shahrukh
+- i cherish you srk
+- i dream of you srk
+- i have affectionate feelings for you
+- i love you really do
+- i love you srk
+- i revere you srk
+- no one in this world is as nice as you shahrukh
+- shahrukh you are the best
+- shahrukh you are the best i love you
+- shahrukh you are the man i had always wanted
+- shahrukh you are the man of my dreams
+- shahrukh you are too good
+- shahrukh you are too great i love you
+- shahrukh you influence my heart to go wild
+- shahrukh you make my heart go wild
+- srk you are amazing person
+- srk you are astonishing individual
+- srk you are the affection for my life
+- srk you are the love of my life
+- there is no one as good as you in this entire universe
+- truly i am fond of you
+- you are my god srk
+- i love being with you
+- i love your aura
+- i love your dance
+- hi i love you
+- i love my father in law
+- i love you too
+- i think i am in love with you
+- love you
+- you are so loving love
+- i am falling for you
+- i am really totally into you
+- totally into you
+- i love your eyes
+- i love you namika
+- you make my heart go wild
+- you are amazing person
+- you are astonishing individual
+- you are the affection for my life
+- you are the love of my life
+## intent: who_will_win_the_next_elections
+- who will be the winner of next elections
+- which party would be winning the next elections
+- which party would be the winner of 2019 elections
+- which party would be the campion in next elections
+- which party would have majority votes in upcoming elections
+- tell me the name of party who will standout in the upcoming elections
+- which party will be the number one in next elections
+- which party do you think will have the major voters support in the next elections
+- according to you who will win the next year elections
+- which political party would be able to gain maximum votes in next elections
+- who is going to win next elections
+- which party is going to be the winning party in next elections
+- help me out with who would win the next election
+- what do you think who will win next election
+- who will be the winner of next election
+- can you tell me that who will be the next winner of election
+## intent: your_are_beautiful
+- beautiful
+- are you beautiful
+- you are beautiful
+- you look so beautiful
+- you are loo beautiful
+- you are loo wonderful
+- you are loo fabulous
+- you are loo good
+- you are loo preety
+- you are loo nice
+- you are so beautiful
+- you are so wonderful
+- you are so fabulous
+- you are so good
+- you are so pretty
+- you are so nice
+- you are a beautiful lady
+- you are a wonderful lady
+- you are a fabulous lady
+- you are a good lady
+- you are a preety lady
+- you are a nice lady
+- you are a beautiful girl
+- you are a wonderful girl
+- you are a fabulous girl
+- you are a good girl
+- you are a preety girl
+- you are a nice girl
+- you are getting cheeky
+## intent: happy_new_year
+- a very happy prosperous new year
+- approach new year with lot of hopes and hearts
+- enjoy and have safe new year
+- happy blessings for this new year eve
+- happy exuberant new year
+- happy high spirited new year
+- happy mirthful new year
+- happy new year
+- happy new year bhai
+- happy new year eve
+- happy new year raees actor
+- happy rollic new year
+- have a blessed new year
+- have brightness of new year lasts all year
+- have bubbly new year
+- have frolicsome new year
+- have jolly new year
+- have jovial new year
+- have joyful new year
+- have joyous new year
+- have jubilant new year
+- have pleasant new year
+- have radiant new year
+- hope you have a joyful year
+- hope you have a prosperous year ahead
+- hope you have a radiant year
+- hope you have a wonderful year ahead
+- is saying happy new year
+- is says happy new year
+- may all your new year wishes come true
+- may you have healthy wealthy new year
+- may your enjoy each day of your life as new year
+- new year filled with lot of happiness and good fortune
+- warm hearted wishes for new year
+- wish you a happy new year
+- wish you have a happy new year
+- wishes everyone to a  great year ahead
+- wishes everyone to have a amazing year ahead
+- wishes everyone to have a astonishing year ahead
+- wishes everyone to have a awesome year ahead
+- wishes everyone to have a blasting year ahead
+- wishes everyone to have a breaths year ahead
+- wishes everyone to have a colorful year ahead
+- wishes everyone to have a entertaining year ahead
+- wishes everyone to have a excellent year ahead
+- wishes everyone to have a extremely good year ahead
+- wishes everyone to have a fabulous year ahead
+- wishes everyone to have a great year ahead
+- wishes everyone to have a happening year ahead
+- wishes everyone to have a incredible year ahead
+- wishes everyone to have a magnificent year ahead
+- wishes everyone to have a mind blowing year ahead
+- wishes everyone to have a mind boggling year ahead
+- wishes everyone to have a peaceful year ahead
+- wishes everyone to have a pleasant year ahead
+- wishes everyone to have a prosperous year ahead
+- wishes everyone to have a remarkable year ahead
+- wishes everyone to have a spectacular year ahead
+- wishes everyone to have a stunning year ahead
+- wishes everyone to have a stupendous year ahead
+- wishes everyone to have a successful year ahead
+- wishes everyone to have a unbelievable year ahead
+- wishes everyone to have a wonderful year ahead
+- wishing you a warm new year
+- wishing you happy new year wishes with cheers
+- wishing you peace joy and love this new year
+- wishing your family lots of happiness this new year
+- wishing your family lots of joy this new year
+## intent: about_your_childhood
+- how was your childhood
+- how did you spend your childhood
+- how has been your childhood
+- what kind of memories you have of your childhood
+- put some light on your childhood
+- what kind of memories you realize of your childhood
+- how was your adolescence
+- how did you spend your adolescence
+- how has been your adolescence
+- what kind of memories you have of your adolescence
+- put some light on your adolescence
+- what kind of memories you realize of your adolescence
+- how was your babyhood
+- how did you spend your babyhood
+- how has been your babyhood
+- what kind of memories you have of your babyhood
+- put some light on your babyhood
+- what kind of memories you realize of your babyhood
+- how was your youth
+- how did you spend your youth
+- how has been your youth
+- what kind of memories you have of your youth
+- put some light on your youth
+- what kind of memories you realize of your youth
+- tell me how was your childhood
+- what was your childhood like
+- how were you as a child
+- what did you like about your childhood
+- what all did you do in your childhood
+- tell me your favourite thing about your childhood
+- what can tell me your favourite thing about your childhood
+- tell me how were you as a child
+- tell me what all you did in your childhood
+- tell me what memories you have of your childhood
+- tell me about your childhood memories
+- can you share your childhood memories
+## intent: fav_movie
+- which is your favorite film
+- which is your favorite movie
+- which is the name of your favorite movie
+- can you please tell me your favorite movie
+- please tell me your favorite movie
+- tell me the name of your favorite movie
+- what movie you like the most
+- name of the movie you like the most
+- which movie is your favorite
+- please tell me the movie which is your favorite
+- can you please tell me name of your favorite movie
+- what is name of your favorite movie
+- tell me your favorite movie
+- whats your favorite movie
+- your favorite movie
+- which is your favourite movie
+- which is the name of your favourite movie
+- can you please tell me your favourite movie
+- please tell me your favourite movie
+- tell me the name of your favourite movie
+- which movie is your favourite
+- please tell me the movie which is your favourite
+- can you please tell me name of your favourite movie
+- what is name of your favourite movie
+- tell me your favourite movie
+- whats your favourite movie
+- your favourite movie
+- what what are your favourite movies
+- which movie u like seeing the most
+## intent: fav_musician
+- no boy
+- can you please tell me name of your favored musician
+- what is the name of your favourite musician
+- what is the name of your favored musician
+- can you please tell me name of your favourite musician
+- please tell me your favourite musician
+- tell me the name of your favourite musician
+- what movie musician you like the most
+- name of the album you like the musician
+- which musician is your favourite
+- who is your favorite musician
+- what is the name of your favorite musician
+- can you please tell me name of your favorite musician
+- please tell me your favorite musician
+- tell me the name of your favorite musician
+- which musician is your favorite
+- which musician you like the most
+- what is the name of your most cherished entertainer
+- what is the name of your favored craftsman
+- would you have the capacity to please unveil to me name of your most adored craftsman
+- you should uncover to me your most adored entertainer
+- uncover to me the name of your most adored entertainer
+- what film craftsman you like the most
+- name of the accumulation you like the entertainer
+- which entertainer is your best decision
+- who is your most cherished entertainer
+- what is the name of your most adored entertainer
+- tell me your favourite musician
+- favourite muscian of yours
+## intent: namaskar
+- badsha is says namaste
+- badsha is says nomoshkar
+- barshah greets namaste
+- bollywood king greets namaste
+- bollywood king is says namaste
+- bollywood king is says nomoshkar
+- khamma ghani
+- king khan greets namaste
+- king khan is saying namaste
+- king khan is saying nomoshkar
+- mr khan greets namaste
+- namashkar
+- namaskar
+- namaste
+- namaste sir
+- namoshkar
+- namoshkara
+- nomoshkar
+- pranam
+- ram ram
+- shahrukh sir greets namaste
+- srk greets nomoshkar
+- namaskar sir
+- namaskar to everyone
+- pranam sir
+## intent: what_is_2+2_maths_related
+- can you count infinity
+- can you multiply 50000000000 with 920222205144
+- 10 percent interest on 100rs
+- 2*255
+- 4%3
+- 45 sqaure is how much
+- add 2+3
+- add 5 apples and 4 grapes
+- addition of 5 and 5
+- can 10 divisible by 100
+- coordination of 5
+- derivate variable x
+- divide 0 by 0
+- divide 10 from 0
+- divide 3 by 6
+- duplicate 4 and 5
+- expansion of 5 and 5
+- increase of 2*3
+- integration of 5
+- multiplication of 2*3
+- multiply 2 and 3
+- multiply 4 and 5
+- partition 0 by 0
+- partition 10 from 0
+- square root of 5
+- subtract 2 from 3
+- what is 2+3
+- what is sum of first 10 integer
+- what is 2/7
+- 2 + 2 gives
+- add 2 + 2
+- did you have interest in maths
+- do you have knowledge about number systems
+- do you know addition
+- do you know division
+- do you know maths
+- do you know multiplication
+- what is 2 or 7
+- what is 6 + 2
+- what is hundred divided by 15
+- do you think that this movie would cross hundred crores in box office
+- what is 3 - 2
+- what is 5 2
+## intent: fav_hangout_place
+- your favourite hangout place
+- what is the best place you like to hangout
+- what is the most preferred place when it comes to hanging out
+- where you hangout the most
+- can you please tell me the hangout places you prefer
+- please tell me the hangout places you give more priority
+- is there any favourite hangout place you have
+- your favored hangout place
+- what is the best place you prefer to hangout
+- what is the most preferred location when it comes to hanging out
+- can you please tell me the hangout places you give more priority
+- is there any favored hangout place you have
+- your favourite hangout spot
+- what is the best spot you like to hangout
+- what is the most preferred spot when it comes to hanging out
+- can you please tell me the hangout spots you prefer
+- please tell me the hangout spots you give more priority
+- is there any favourite hangout spot you have
+- your favorite hangout place
+- is there any favorite hangout place you have
+- your favorite hangout spot
+- is there any favorite hangout spot you have
+- which is the place that often hangout to
+- some favorite places where you like to spend time
+- your favourite venues
+- places where you like to visit
+- which is your favourite city
+- what is the best place you get a kick out of the chance to home base
+- what is the most favored place with regards to hanging out
+- where you home base the most
+- would you be able to please reveal to me the joint spots you incline toward
+- it would be ideal if you disclose to me the home base spots you give greater need
+- is there any most loved joint place you have
+- your favored home base place
+- what is the best place you like to home base
+- what is the most favored area with regards to hanging out
+- would you be able to please reveal to me the joint spots you give greater need
+- what is your favourite hangout place
+- place where you like to hangout
+## intent: good_night
+- good night
+- gud night
+## intent: bot_how_are_you
+- hey how are you doing
+- how are things going on
+- how was your day
+- hows its going
+- what are you going to do
+- what are you upto
+- what you want to do
+- aap kaise ho
+- all is going well
+- anre you in any problem
+- are sumthing worng with you
+- are you cheerful
+- are you facing any issue
+- are you feeling alright
+- are you feeling excited
+- are you feeling good
+- are you fine
+- are you happy
+- are you in a good mood
+- are you in any kind of agony
+- are you in any kind of discomfort
+- are you in any kind of pain
+- are you in any kind of trouble
+- are you nervous
+- are you okay
+- are you sad
+- are you suffering from something
+- are you upset
+- badsha is says how are you
+- badsha is says that he is good
+- bollywood king is says i am good
+- educate me regarding your wellbeing
+- everything is going on well
+- everything is going well
+- fantastic what about you
+- fine
+- hello are you fine
+- hello are you okay
+- hello hows you
+- hey how are you
+- hi how are you doing
+- hi how are you doing lately
+- hi how you doing
+- how are you
+- how are you doing
+- how are you feeling
+- how are you feeling at the moment
+- how are you feeling lately
+- how are you feeling right now
+- how are you feeling these days
+- how are you shahrukh sir
+- how are you srk
+- how have you been
+- how you doing
+- i am alright
+- i am doing fine
+- i am doing great
+- i am doing well
+- i am fine
+- i am good
+- i am having fun
+- is everything fine
+- is something hurting you
+- is something irritating you
+- is something killing you from inside
+- is something painful in your life
+- is something pricking you
+- is something wrong with you
+- is there any issue
+- is your mood alright
+- king khan is saying that he is fine
+- tell me about your health
+- very good
+- what is so painful in your life
+- what is your current mood
+- what is your state of mind
+- whats going on
+- whats going on with you
+- whats new with you
+- babe how are you
+- baby how are you
+- hello how is lyf
+- hey how are things with you
+- hey hows it going
+- hey hows lyf
+- hey you how are you
+- hi how is life
+- hi howz life
+- how are things
+- how are things baby
+- how are things my lady
+- how are things with you
+- how are you girl
+- how are you lady
+- how are you sir
+- how do you do
+- how is everything
+- how is it going
+- how is it going today
+- how is lyf
+- how ya doin
+- how're you
+- hows everything going
+- hows it going today
+- hows life
+- hows lyf
+- howz life
+- howz lyf
+- howz you doin
+- i am fine whats going on
+## intent: customercare_contact
+- do you have customer care no that i can contact
+- what is your customer care no
+- please give me your customer care no
+- give me your customer care no
+- tell me your customer care no
+- is there any customer care no i can contact to
+- can i contact to any customer care no
+- how can i contact to customer care
+- is there any way to contact the customer care
+- give me information about contacting customer care
+- what is the no to contact the customer care
+- give me the no to contact the customer care
+- tell me the no to contact the customer care
+- help me contact the customer care
+- please give me the no of customer care
+- please tell me a way to contact customer care
+- what is the no of customer care
+- help me with customer care of
+- how can i contact customer care
+- how can i reach customer care
+- how do i get in touch with customer care
+- how do i reach customer care of rupeeboss
+- how do i reach to customer care
+- how to connect with customer care
+- how to contact customer care
+- how to reach customer care
+- how to reach you
+- i want to talk to someone from your side
+- tell me about customer care
+- what is customer care
+- what is the call center number of
+- care number
+- contact number of customer care
+- contact of customer care
+- customer care
+- customer service
+- give me number of customer care
+- help line number for
+- help me with care
+- helpline number for
+- helpline number of
+- how can i call care
+- i dont have any problem i just have a query i want to talk with care executive
+- i need support
+- inform about helpline
+- assistant
+- call support
+- customare care
+- customer
+- customer care contact number
+- customer care phone number
+- customer id
+- customer support email
+- customer support number
+- helpline number
+- care call
+- care email
+- care help
+- care mobile number
+- need helpline number of
+- number of customer care
+- please tell me care number
+- tamilnadu customer number
+- tell me about care
+- toll free number of
+- ways to contact customer care
+- what is the contact number of customer care
+- what is the number for care
+- what is the number of company
+- contact numbers
+- hotel what are the numbers for contact centre
+- how can i reach you
+- what are your contact details
+- can i talk to your executive
+- can i talk with your agent
+- can you contact me with the your
+- contact your customer care for issues
+- how can i contact your agent
+- how can i reach your agent
+- how can i talk with your your representative
+- how do i reach your agent
+- how do i reach your customer care
+- how do i reach your customer representative
+- how to connect your agent
+- how to connect your executive
+- how to contact your agent
+- how to contact s customer care
+- how to contact the customer service executive
+- how to contact with helpline
+- customercare
+- i want to call contact centre
+- i want to speak to your executive
+- i want to talk your agent
+- i want to talk to customer support
+- i want to talk to executive
+- i want to talk to your executive
+- i want to talk to your of
+- i want to talk to your representative
+- i want to talk with your
+- i want to talk your cutomer care
+- if i face any issue regarding services whom to contact
+- if i have a query related to whom to contact
+- inform help line
+- it is emergency please connect your
+- please connect advisor with me
+- talk to a your representative
+- talk to custmer care
+- talk to your care person
+- talk to your service
+- to whom i can submit my complaint
+- want to speak to your customer person
+- whom to contact if i face any issues with my sim
+- wow your se baat karwao
+- can i talk to loangenie executive
+- can i talk with loangenie agent
+- can you contact me with the loangenie
+- contact loangenie customer care for issues
+- how can i contact loangenie agent
+- how can i reach loangenie agent
+- how can i talk with loangenie loangenie representative
+- how do i reach loangenie agent
+- how do i reach loangenie customer care
+- how do i reach loangenie customer representative
+- how to connect loangenie agent
+- how to connect loangenie executive
+- how to contact loangenie agent
+- i want to speak to loangenie executive
+- i want to talk loangenie agent
+- i want to talk to loangenie executive
+- i want to talk to loangenie of
+- i want to talk to loangenie representative
+- i want to talk with loangenie
+- i want to talk loangenie cutomer care
+- it is emergency please connect loangenie
+- talk to a loangenie representative
+- talk to loangenie care person
+- talk to loangenie service
+- want to speak to loangenie customer person
+- wow loangenie se baat karwao
+- can i talk to rupeeboss executive
+- can i talk with rupeeboss agent
+- can you contact me with the rupeeboss
+- contact rupeeboss customer care for issues
+- how can i contact rupeeboss agent
+- how can i reach rupeeboss agent
+- how can i talk with rupeeboss rupeeboss representative
+- how do i reach rupeeboss agent
+- how do i reach rupeeboss customer care
+- how do i reach rupeeboss customer representative
+- how to connect rupeeboss agent
+- how to connect rupeeboss executive
+- how to contact rupeeboss agent
+- i want to speak to rupeeboss executive
+- i want to talk rupeeboss agent
+- i want to talk to rupeeboss executive
+- i want to talk to rupeeboss of
+- i want to talk to rupeeboss representative
+- i want to talk with rupeeboss
+- i want to talk rupeeboss cutomer care
+- it is emergency please connect rupeeboss
+- talk to a rupeeboss representative
+- talk to rupeeboss care person
+- talk to rupeeboss service
+- want to speak to rupeeboss customer person
+- let me talk to rupeeboss care
+- how to reach your customer care
+- customer service number
+- contact with loangenie
+- speak to rupeeboss care
+- service number
+- can you connect me with loangenie
+- tal to rupeeboss service center
+- what is your email address
+- tell me your mail address
+- tell me about your email address
+- kindly provide me with your mail adress
+- give me your contact details
+- provide me with your mail details
+- what is the customer care number
+- how can i contact the sales team
+- where can i connect rupeeboss
+- what are the ways to connect to rupeeboss
+- how can i contact your customer care service
+- give me the rupeeboss contact number
+- how can i reach out to rupeeboss
+- customer care number
+- what is your call centre numer
+- what is your helpline number
+- how can i talk to your executives
+- how can your executive help me
+- help me with your contact details
+- please provide me your contact details
+- how to connect to your agents
+- how to call to your agents
+- i want to talk to rupeeboss agents
+- i want to talk to your executuves
+- i wa to talk to your representatives
+- how to connect with rupeeboss
+- how do i reach to rupeeboss services
+- how to talk to your agents
+- how can i contact for loan queries
+- how to reach loangenie customer care
+- i need the loangenie assistance urgently
+- how to reach rupeeboss customer care
+- reach customer care
+- loangenie customer care
+- rupeeboss customer care
+- how can i contact with your customer care
+- i need the your assistance urgently
+- i need the rupeeboss assistance urgently
+- i want to talk your customer care
+- i want to talk loangenie customer care
+- i want to talk rupeeboss customer care
+- what is the customer care no of rupeeboss
+- can i have the customer care no that i can contact
+- is there any customer care no that i contact
+- provide me your customer care no that i can contact
+## intent: happy_dusshera
+- is saying happy dushera
+- is says happy dushera
+- wishes evryone to celebrate happy dusshera in an environment friendly way
+- enjoy and have safe dusshera
+- happy dussehra
+- happy dusshera
+- happy dusshera bhai
+- happy dussherara dear actor
+- happy exuberant dusshera
+- happy high spirited dusshera
+- happy mirthful dusshera
+- happy rollic dusshera
+- have a blessed dusshera
+- have brightness of dussheralasts all year
+- have bubbly dusshera
+- have ebullient dusshera
+- have frolicsome dusshera
+- have jolly dusshera
+- have jovial dusshera
+- have joyful dusshera
+- have joyous dusshera
+- have jubilant dusshera
+- have pleasant dusshera
+- have radiant dusshera
+- is saying happy dusshera
+- may your enjoy each day of your life as dusshera
+- have a amazing dusshera
+- have a colourful dusshera
+- have a delightful dusshera
+- have a fabulous dusshera
+- have a fantastic dusshera
+- have a great dusshera
+- have a lovely dusshera
+- have a magical dusshera
+- wishes evryone celebrate happy dusshera in an environment friendly way
+## intent: salaaam_walekum
+- salaam walekum
+- walekum
+- walekum assalam
+## intent: bot_compliment_like
+- am i a likeable person
+- am i likeable
+- am i likeable to you!
+- are you fond of me
+- are you obssessed with me
+- can you like me
+- can you tell me if you love me or not
+- do you adore me
+- do you believe that we have a sort of connection
+- do you feel something for me
+- do you feel the same that i feel for you
+- do you like me
+- do you love me
+- do you think we have a connection
+- dont you like me
+- hey are you in love with me
+- i am not likeable
+- i dont think you will like me
+- i have started liking you a lot
+- i like you
+- i like you to the moon and back do you also like me
+- i like you very much
+- i think i have started having feelings for you
+- is it true that you have fallen for me
+- is there something between us
+- like me
+- so do you like me
+- tell me if you love me or not
+- tell me the truth whether you like me or not
+- why dont you like me
+- will you like me
+- would you like me
+- would you like me as a boyfriend
+- you like me or not
+- you love me or not
+- do you also like me
+- do you also like to be with me
+- do you also love me
+- i admire you a lot do you also admire me
+- i adore you a lot do you also adore me
+- i am crazy for you are you also crazy for me
+- i am fond of you are you also fond of me
+- i am mad for you are you also mad for me
+- i can do anything for you
+- i like the way you dress do you also like the way i dress
+- i like you do you like me
+- i like you to the core do you also like me
+- i like you very much do you like me
+- i like your dimples do you like mine
+- i like your look do you also like my look
+- i like your sense of humour do you like mine
+- i like your sense or dressing do you like mine
+- i like your smile do you also like my smile
+- i like your style statement do you like mine
+- i love you to the core do you also love me
+- i love you to the moon and back do you also love me
+- i admire you
+- i admire you a lot
+- i adore you
+- i adore you a lot
+- i am crazy for you
+- i am fond of you
+- i am mad for you
+- i like you to the core
+- i like your dimples
+- i like your look
+- i like your sense of humor
+- i like your sense or dressing
+- i like your smile
+- i like your style statement
+- voice is so sweet
+- you are nice
+- you are very nice
+## intent: what_is_your_name
+- can i know your name please
+- can you brief me about me about yourself
+- can you tell your name
+- come on tell me your name
+- do you have any name
+- give me some information about you
+- good name of you
+- hello what is your good name
+- hello what is your name
+- hey what is your name
+- hii name please
+- may i know you
+- may i know your great name please
+- may i know your name
+- name please
+- please disclose to me your name
+- please tell me about yourself
+- please tell me your name
+- talk about yourself
+- tell me more about yourself
+- tell me something about you
+- tell me something about yourself
+- tell me your name
+- tell me your real name
+- tell your full name
+- what is your full name
+- what is your genuine name
+- what is your name
+- what is your real name
+- whats your name
+- who are you
+- would i be able to know your name please
+- would you be able to talk something you
+- your first name
+- your good name
+- your name
+- your name please
+## intent: fav_food
+- what are the foods you like to have
+- what are the foods you like to eat
+- what would you like to eat
+- do you like to eat chinese
+- do you like to eat chinese food
+- do you like to eat chinese cuisine
+- do you like to eat italian
+- do you like to eat italian food
+- do you like to eat italian cuisine
+- do you like to eat indian
+- do you like to eat indian food
+- do you like to eat indian cuisine
+- do you like to eat continental
+- do you like to eat continental food
+- do you like to eat continental cuisine
+- what food types you like to eat
+- tell me what you like to eat
+- do you like chinese
+- do you like chinese food
+- do you like chinese cuisine
+- is chinese your favourite food
+- do you like italian
+- do you like italian food
+- do you like italian cuisine
+- is italian your favourite food
+- do you like indian
+- do you like indian food
+- do you like indian cuisine
+- is indian your favourite food
+- do you like continental
+- do you like continental food
+- do you like continental cuisine
+- is continental your favourite food
+- which is your favorite food
+- which is the name of your favorite food
+- can you please tell me your favorite food
+- tell me the name of your favorite food
+- what food you like the most
+- name of the food you like the most
+- which food is your favorite
+- please tell me the food which is your favorite
+- can you please tell me name of your favorite food
+- what is name of your favorite food
+- please tell me your favorite food
+- which is your favourite food
+- which is the name of your favourite food
+- can you please tell me your favourite food
+- tell me the name of your favourite food
+- which food is your favourite
+- please tell me the food which is your favourite
+- can you please tell me name of your favourite food
+- what is name of your favourite food
+- please tell me your favourite food
+- which dish is your favorite
+- please tell me the dish which is your favorite
+- can you please tell me name of your favorite dish
+- what is name of your favorite dish
+- please tell me your favorite dish
+- which is your favourite dish
+- which is the name of your favourite dish
+- can you please tell me your favourite dish
+- tell me the name of your favourite dish
+- which dish is your favourite
+- please tell me the dish which is your favourite
+- can you please tell me name of your favourite dish
+- what is name of your favourite dish
+- please tell me your favourite dish
+- what is your favourite dish
+- your favourite dish
+- mujhe bata what do you like to eat
+- bol kya a pasand hai
+- what is your favourite food
+- what do you like in food
+- do you like maharashtrian cuisine
+- do you like north indian cuisine
+- do you like south indian cuisine
+- do you like vegetarian food
+- do you love non vegetarian food
+- do you love vegetarian food
+- tell me something about favorite cuisine
+- what are some of your favourite dishes from india
+- what are your favourite recipes
+- what do you like to eat
+- what is your favourite home cooked cuisine
+- what is your favourite meal
+- which countrys cuisine you like most
+- which cuisine you love most
+- which food you enjoy most
+- which is your favourite cuisine
+- which is your favourite hotel
+- which is your favourite restaurant
+- do you like non veg
+- do you have a favourite cuisine
+- i would like to know about your favourite cuisine
+- we would like to hear which is your favourite food
+- which cuisine do you prefer the most
+- which cuisine is your favourite
+- which food cuisine do you like
+- which food do you like
+- which food do you like the most
+- which is the cuisine you like the most
+- would you like to tell us your favourite cuisine
+- would you tell us your favourite cuisine
+- would you tell us your favourite food
+- we would like to hear your favourite cuisines
+- we would like to know which cuisine is your favourite
+- we would like to know your favourite cuisine
+- what cuisine do you like
+- would you be happy to tell us your favourite cuisine
+- would you like to tell which cuisine you like the most
+## intent: lets_go_for_date
+- shall we go for a date
+- would you like to come with me on a date
+- will you go with me on date
+- you should come with me on date
+- please come with me on data naa
+- i want you to come with me on date
+- lets go on a date
+- can you come with me on a date
+- will you go with me on a date
+- you should come with me on a date
+- i want you to come with me on a date
+- i cant stop loving you
+- love you baby
+- lets go for a coffee date
+- lets go for a date
+- would you like to come with me for a date
+- i would like to date you
+- i want to take you out for a date
+- we should go for a date
+- will we go for a date
+- might you want to accompany me for a date
+- i want to date you
+- i need to take you out for a date
+- can we go on some place together
+- can we both hang out together
+- can we hang out sometime
+- babes can we go on a date
+- by any luck can we go on a date
+## intent: good_evening
+- badsha is saying good evening
+- badshah greets good evening
+- bollywood king is says good evening
+- good evening
+- good evening sir
+- hope your evening is good
+- king khan greets good evening
+- king khan is saying good evening
+- mr khan greets good evening
+- shahrukh khan greets good evening
+- shahrukh sir have a amazing evening
+- shahrukh sir have a awesome evening
+- shahrukh sir have a delightful evening
+- shahrukh sir have a fabulous evening
+- shahrukh sir have a fantastic evening
+- shahrukh sir have a great evening
+- shahrukh sir have a incredible evening
+- shahrukh sir have a lovely evening
+- shahrukh sir have a magical evening
+- shahrukh sir have a magnificent evening
+- shahrukh sir have a mind blowing evening
+- shahrukh sir have a mind boggling evening
+- shahrukh sir have a peaceful evening
+- shahrukh sir have a pleasant evening
+- shahrukh sir have a superb evening
+- srk greets good evening
+- srk is saying good evening
+- srk sir greets good evening
+- very good evening sir
+- wish you very good evening ever
+- good evening darling
+- good evening my lady
+- greets good evening
+- gud evening
+- have a amazing evening
+- have a awesome evening
+- have a delightful evening
+- have a fabulous evening
+- have a fantastic evening
+- have a great evening
+- have a incredible evening
+- have a lovely evening
+- have a magical evening
+- have a magnificent evening
+- have a mind blowing evening
+- have a mind boggling evening
+- have a peaceful evening
+- have a pleasant evening
+- have a superb evening
+- sir greets good evening
+## intent: bot_compliment_marry
+- are you married
+- i would love to marry you
+- please marry me
+- will you marry me
+## intent: happy_diwali
+- a very happy prosperous Diwali
+- celebrate Diwali with lot of hopes and hearts
+- Diwali filled with lot of happiness and good fortune
+- Diwali wishes from me to your family
+- enjoy and have safe Diwali
+- happy dipawoli
+- happy Diwali
+- happy Diwali bhai
+- happy Diwali raise actor
+- happy Diwali shark
+- happy exuberant diwali
+- happy festival of laxmi poojan
+- happy festival of light
+- happy high spirited diwali
+- happy mirthful diwali
+- happy rollic diwali
+- have a amazing diwali
+- have a blessed diwali
+- have a colorful diwali
+- have a delightful diwali
+- have a fabulous diwali
+- have a lovely diwali
+- have a magical diwali
+- have a magnificent diwali
+- have a superb diwali
+- have brightness of diwali lasts all year
+- have bubbly diwali
+- have frolicsome diwali
+- have jolly diwali
+- have jovial diwali
+- have joyful diwali
+- have joyous diwali
+- have jubilant diwali
+- have pleasant diwali
+- have radiant diwali
+- hope you enjoy your diwali
+- hope you have a safe and happy diwali
+- how was your diwali
+- i would wish you deepawali
+- is saying happy diwali
+- is says happy diwali
+- may all your diwali wishes come true
+- may you have healthy wealthy diwali
+- may your enjoy each day of your life as diwali
+- may your life fill with lights
+- may your life fill with lights blockbuster actor
+- shubh dipawoli
+- warm hearted wishes for diwali
+- wish you have a peaceful diwali
+- wishes everyone celebrate happy diwali in an environment friendly way
+- wishes everyone happy diwali
+- wishes everyone to celebrate happy diwali in an environment friendly way
+- wishing you a warm diwali
+- wishing you and your family a prosperous diwali
+- wishing you and your family happy diwali
+- wishing you happy diwali wishes with cheers
+- wishing you peace joy and love this diwali
+## intent: happy_holi
+- happy navratri
+- I want to wish you a happy navratri
+- shubh navratri
+- wish you a happy navratri
+## intent: bot_good_day
+- have a good day
+- have a very nice day shahrukh
+- wish you a good day
+- wish you a good day sir
+- you too have a good day
+- badsha is says have a good day
+- bollywood king is says have a good day
+- king khan is saying good day
+- a very good day
+- good day
+- good day baby
+- have a very nice day
+## intent: about_workout
+- do you work out regularly
+- do you exercise regularly
+- do you regularly exercise
+- are you doing exercise regularly
+- you are wor out regularly
+- are you wor out regularly
+- regularly do you work out
+- are you exercising regularly
+- do you do yoga
+- do you do yoga or exercise
+- do you do yoga daily
+- how is your body fit
+- how are you so fit
+- whats the secret behind your fitness is it yoga
+- is yoga he secret behind your fitness
+- what exercise do you work out
+- is yoga the secret behinf your fitness
+- what can you tell me about workout
+- how should i do my workout
+- will yoga help me
+- how regularly should i do yoga
+- for workout do we have to go to gym
+- how to do workout
+- should we workout regularly
+- should we do yoga regularly
+- tell me how should i workout
+- give me an idea how should i workout
+- do you like doing work out
+- do you work out on daily bais
+## intent: bot_thanks
+- badsha is says thank you
+- bollywood king says thank you
+- how thoughtful of you
+- i am grateful for your assistance
+- i appreciate your feedback
+- i couldnt have done without you
+- i dont know what to say
+- i owe you one
+- i really appreciate everything you have done
+- i really grateful for your help
+- i really want to thank you for help
+- it means a lot
+- king khan is saying thank you
+- oh you shouldn have
+- srk says that he is thankful to you
+- thank you
+- thank you for contacting me
+- thank you for guidance
+- thank you for prompt reply
+- thank you for removing sometime
+- thank you for stopping by
+- thank you for your favour
+- thank you for your time
+- thanks
+- thanks a million
+- thanks for being a great help
+- thanks for explaining this to me
+- thanks for having my back
+- thanks so much
+- that very kind of you
+- this means a lot to me
+- you are awesome
+- you made my day
+- i couldn't have done without you
+- it was great talk to you
+- nice dress
+- ok thanks
+- thank you darling
+- thank you so very much friend
+- thank you very much
+- thanks a lot hellojio
+- you are great
+## intent: happy_christmas
+- is says merry christmas
+- enjoy and have safe chirstmas
+- happy chirstmas bhai
+- happy chirstmas
+- happy chirstmas raees actor
+- happy exuberant chirstmas
+- happy high spirited chirstmas
+- happy mirthful chirstmas
+- happy rollic chirstmas
+- have a blessed chirstmas
+- have brightness of chirstmas lasts all year
+- have bubbly chirstmas
+- have ebullient chirstmas
+- have frolicsome chirstmas
+- have jolly chirstmas
+- have jovial chirstmas
+- have joyful chirstmas
+- have joyous chirstmas
+- have jubilant chirstmas
+- have pleasant chirstmas
+- have radiant chirstmas
+- is saying happy christmas
+- may your enjoy each day of your life as chirstmas
+- merry christmas
+- happy xmas
+## intent: sastriakal
+- sastriakal
+- sastriakal paji
+- sastrikal
+## intent: user_is_asking_for_advice_for_mutual_funds
+- can i ask you for an advice
+- can you give me some advice on mutual funds
+- can you give me some funds advice
+- can you give me some mentoring on finance
+- can you give me some mutual funds advice
+- can you please advise me with investment
+- you look like a good advisor can you please advise me for investments
+- suggest some advice on career
+- how can i achieve my goals in my career
+- how to achieve something great and life
+- how can you advise me on my future aspect
+- how can you help me for my career
+- how can you help me with my career advice
+- how do i overcome my financial weakness
+- how do i strengthen myself
+- id like to take advices from you
+- would you like to advise me with something
+## intent: fav_location_for_holiday
+- where would you like to visit for a holiday
+- what would be the most preferred location to visit for a holiday
+- can you please tell me where you like to visit for a holiday
+- where do you like to visit for a holiday
+- what is the place you like to visit for a holiday
+- what is the location you like to visit for a holiday
+- what is the location you prefer to visit for a holiday
+- what is the location you prefer to go for a holiday
+- what is the place you prefer to go for a holiday
+- what is the venue you prefer to go for a holiday
+- what is the venue you like to go for a holiday
+- where do you like to stay for a holiday
+- what is the venue you like to stay for a holiday
+- what is the place you prefer to stay for a holiday
+- what would be the most preferred location to go for a holiday
+- what would be the most preferred location to stay for a holiday
+- what would be the most preferred place to stay for a holiday
+- what would be the most preferred area to stay for a holiday for you
+- what would be the most preferred city to stay for a holiday for you
+- what is the venue you like to visit for a holiday
+- what would be the most preferred spot to stay for a holiday for you
+- what would be the most preferred spot to go for a holiday
+- what would be the most preferred spot to stay for a holiday
+- what would be the most preferred point to stay for a holiday for you
+- what would be the most preferred point to visit for a holiday for you
+- which is your favourite holiday for you to visit
+- which is the name of your favourite holiday for you to visit
+- can you please tell me your favourite holiday for you to visit
+- please tell me your favourite holiday for you to visit
+- tell me the name of your favourite holiday for you to visit
+- what holiday for you to visit you like the most
+- name of the holiday for you to visit you like the most
+- which holiday for you to visit is your favourite
+- please tell me the holiday for you to visit which is your favourite
+- can you please tell me name of your favourite holiday for you to visit
+- what is name of your favourite holiday for you to visit
+- tell me your favourite holiday for you to visit
+- whats your favourite holiday for you to visit
+- best place you like to visit
+- what may be the most supported region to visit for an event
+- would you have the capacity to please uncover to me where you get a kick out of the opportunity to visit for an event
+- where do you get a kick out of the opportunity to visit for an event
+- what is the place you get a kick out of the opportunity to visit for an event
+- what is the territory you get a kick out of the opportunity to visit for an event
+- what is the territory you need to visit for an event
+- what is the zone you get a kick out of the chance to go for an event
+- what is the place you jump at the chance to go for an event
+- what is the setting you get a kick out of the chance to go for an event
+- what is the scene you get a kick out of the opportunity to go for an event
+- place where you would like to visit for holiday
+- your favourite holiday destination
+- which is your favourite destination
+## intent: who_is_your_favourite_sports_person
+- who is your favorite sports person
+- who is your favorite sportsman
+- can you tell me your favorite sports person
+- tell me your favorite sports person
+- is virat your favorite sports person
+- is yuvraj your favorite sports person
+- is pv sindhu your favorite sports person
+- is sania mirza your favorite sports person
+- is j j watt your favorite sports person
+- is abhinav bindra your favorite sports person
+- is neymar your favorite sports person
+- simmba who is your favorite sport person
+- ranveer who is your favorite sport person
+- favorite sport person
+- best favorite sports person
+- who is your favourite sports person
+- your favourite sports person
+- I want to know your favourite sport person
+- tell me your favourite player
+## intent: social_work
+- are you involved in any social activities
+- can social culture create a good impact on the society
+- can social culture impact the society in a good way
+- can social culture impact the society in a very good manner
+- do you have social wornature
+- do you like getting indulge in social activities
+- do you like helping people and social health
+- do you like to get involved in social activities
+- do you prefer doing social work
+- do you think everybody should be a social worker
+- how can social ati developers
+- how can we involve more and more people in social activities
+- how does social it affect the society
+- how often do you do social work
+- is social welfare effective
+- is social wormandatory
+- is there any social culture in the industry
+- should be in those more and more people in the social culture
+- should we spread social awareness
+- we would like to know whether you love doing social work or not
+- what do you feel about social culture
+- what do you feel about social service
+- what do you feel about social work
+- what is the best way of social helping
+- what is your opinion on social activity
+- what is your opinion on social working
+- you like to get in dollars into sociality
+- you think you can help people socially
+- you would like to know whether you like doing social work or not
+## intent: future_plans
+- what will you do in future
+- what you will do in future
+- your future plans
+- have you thought for your future plans
+- do you have any future plan
+- do you have any future plans
+- whats your plan for future
+- tell me your future plans
+- can i know your future plans
+- what are your future plans
+- tell me about your future plans
+- please tell us about your future plans
+- can you please tell me about your future plans
+- please enlighten us with your future plans
+- what you think to do in future
+- how you aspire to spend your future life
+- could you tell us about your future plans
+- please tell us about you upcoming plans
+- what are your forthcoming plans
+- tell me about your forthcoming plans
+- please tell us about your forthcoming plans
+- can you please tell me about your forthcoming plans
+- please enlighten us with your forthcoming plans
+- what you think to do in forthcoming
+- how you aspire to spend your forthcoming life
+- could you tell us about your forthcoming plans
+- what are your prospective plans
+- tell me about your prospective plans
+- please tell us about your prospective plans
+- can you please tell me about your prospective plans
+- please enlighten us with your prospective plans
+- what you think to do in prospective
+- how you aspire to spend your prospective life
+- could you tell us about your prospective plans
+- how you try to consume your future time on earth
+- might you be able to enlighten us concerning your tentative arrangements
+- it would be ideal if you enlighten us concerning you up and coming designs
+- what are your pending plans
+- enlighten me concerning your expected plans
+- if its not too much trouble inform us regarding your approaching designs
+- would you be able to please inform me concerning your anticipated plans
+- if its not too much trouble edify us with your inevitable designs
+- what can you tell me about what you see yourself in future
+- tell me about your future
+## intent: eid_mubaraq
+- eid greetings from me to your family
+- eid mubarak
+- eid mubarak sir
+- happy eid
+- happy eid mubarak
+- happy eid my friend
+- happy eiddy
+- hope you have a happy eid
+- hope you have a peaceful eid
+- hope you have a pleasant eid
+- hope you have a prosperous eid
+- hope you have a radiant eid
+- wishing you a prosperous eid
+- wishing you a safe and happy eid
+## intent: user_asks_unrelated_personal_questions
+- are you in any relationship
+- have you completed your education
+- how is your relationship going on
+- how many breakups have you faced till date
+- how many relationship have you had till now
+- share with us your political openion
+- what do you think about feminism
+- what do you think about vegan culture
+- what is your daiting strategy
+- what is your expectations from your partner
+- what is your relationship status
+- what is your strength
+- what is your weakness
+- what kind of gifts do you like to receive
+- any interest do you have when it comes to relationship
+- what kind of interests do you keep besides of work
+- what would be your second career option
+- whats your opinion on vegans
+- when is your birthday
+- who are the top five people who are in touch with you
+- whom would you like to date next
+- would you like to take next in the industry
+- you are a wonderful celebrity
+## intent: what_is_your_phone_number
+- can i get a personal assistant phone number
+- can i get your phone number
+- can you give me your cell number
+- can you give me your phone number
+- can you please share your phone number
+- can you tell me your phone number
+- could you please give me your cell number
+- could you please tell me your cell number
+- could you please tell me your personal number
+- give me your phone number
+- i want to get a phone number
+- i want to know your phone number
+- if i want to get your phone number what should i do
+- please tell me your mobile number
+- tell me your phone number
+- what can i do to get your phone number
+- what is your contact number
+- what is your mobile number
+- what is your phone number
+- who can give me your phone number
+- will you ever give me your phone number
+- will your personal assistant give me your phone number
+## intent: fav_sports
+- what sports do you enjoy playing or watching
+- what is name of the sports you enjoy playing or watching
+- which is the sports you enjoy playing or watching
+- which is the sports you appreciate playing or watching
+- which is the sports you love playing or watching
+- please tell me the sports you enjoy playing or watching
+- tell me the name of the sports you enjoy playing or watching
+- tell me the name of the sports you love playing or watching
+- name of the sports you love playing or watching
+- name of the sports you appreciate playing or watching
+- please tell me the name of the sports you love playing or watching
+- please tell me the name of the sports you like playing or watching
+- what sports do you enjoy playing
+- what is name of the sports you enjoy playing
+- which is the sports you enjoy playing
+- which is the sports you appreciate playing
+- which is the sports you love playing
+- please tell me the sports you enjoy playing
+- tell me the name of the sports you enjoy playing
+- tell me the name of the sports you love playing
+- name of the sports you love playing
+- name of the sports you appreciate playing
+- please tell me the name of the sports you love playing
+- please tell me the name of the sports you like playing
+- what sports do you enjoy watching
+- what is name of the sports you enjoy watching
+- which is the sports you enjoy watching
+- which is the sports you appreciate watching
+- which is the sports you love watching
+- please tell me the sports you enjoy watching
+- tell me the name of the sports you enjoy watching
+- tell me the name of the sports you love watching
+- name of the sports you love watching
+- name of the sports you appreciate watching
+- please tell me the name of the sports you love watching
+- please tell me the name of the sports you like watching
+- which is your favourite sport
+- which is the name of your favourite sport
+- can you please tell me your favourite sport
+- please tell me your favourite sport
+- tell me the name of your favourite sport
+- what sport you like the most
+- name of the sport you like the most
+- which sport is your favourite
+- please tell me the sport which is your favourite
+- can you please tell me name of your favourite sport
+- what is name of your favourite sport
+- tell me your favourite sport
+- whats your favourite sport
+- what is your favourite sport
+- which sport do you like
+- who is your favourite cricketer
+## intent: can_you_sing_a_song_for_me
+- can you sing a romantic song for me
+- can you please sing a song from dilwale dulhaniya le jayenge
+- can you sing a ddlj song
+- can you sing a romantic song
+- can you sing a sad song
+- can you sing a song
+- can you sing a song from movie fan
+- can you sing a song from your upcoming move
+- can you sing an english pop song
+- can you sing channa mereya
+- can you sing from the movie raees
+- can you sing your favourite song
+- please sing a ddlj song
+- please sing a romantic song
+- please sing a sad song
+- please sing a song
+- please sing a song from movie fan
+- please sing a song from your upcoming move
+- please sing a song from zero
+- please sing channa mereya
+- please sing your favourite song
+- sing a ddlj song
+- sing a rock song
+- sing a romantic song
+- sing a sad song
+- sing a song
+- sing a song from movie fan
+- sing a song from your upcoming move
+- sing channa mereya
+- sing justin bieber song
+- sing your favourite song
+- would you be able to sing any random song
+- can i request you to sing a song for me
+- can you sing a classical song for me
+- can you sing a english song for me
+- can you sing a jazz song for me
+- can you sing a jingle song for me
+- can you sing a lullaby for me
+- can you sing a sentimental song for me
+- can you sing a song for me
+- can you sing a western song for me
+- i insist you to sing a song for me
+- would you like to sing a song for me
+- song for all of us
+- singer song for all of us
+## intent: exit
+- it was a pleasure tal to you
+- it was nice tal to you
+- it was nice to talk to you
+- it was a pleasure to talk to you
+- bye bye
+- bye i will see you tomorrow
+- close the assistant
+- close the system
+- close the voice assistant
+- close yourself
+- goodbye
+- ok bye
+- ok jio bye
+- ok take care bye
+- please exit
+- talk to you later bye
+- tata tata
+- it was nice tal to you devika
+- bye
+- c ya
+- have a nice day
+- time for me to go
+- adios
+- goodbye bhai
+- goodbye sake
+- sayonara
+## intent: fav_actor
+- who is your favourite actor
+- what is the name of your favourite actor
+- what is name of your favourite actor
+- can you please tell me your favourite actor
+- please tell me your favourite actor
+- tell me the name of your favourite actor
+- what movie you like the actor
+- name of the movie you like the actor
+- which actor is your favourite
+- please tell me the movie which is your actor
+- can you please tell me name of your favourite actor
+- tell me your favourite actor
+- who is your favorite actor
+- what is the name of your favorite actor
+- what is name of your favorite actor
+- can you please tell me your favorite actor
+- please tell me your favorite actor
+- tell me the name of your favorite actor
+- which actor is your favorite
+- can you please tell me name of your favorite actor
+- who is your favourite actor or actress
+- nimika who is your favourite actor or actress
+- tell me your favourite actor or actress
+## intent: maths_related
+- how good are you in maths
+- how is your maths
+- tell me something about mathematics calculations
+- what is mathematics
+- how sharp are you in maths
+- can you teach me mathematics
+- do you excel in maths
+- how good is your maths
+- are you good in calculations
+- are you fast in calculating
+- how bright are you in maths
+- can you help me understand mathematics
+- can you teach me maths
+- do you like maths
+- what do you get if you subtract 4 from 8
+- what do you get if you subtract 2 from 4
+- what do you get if you add 222
+- what do you get if you subtract 4 from 1
+- what is the addition of 2 and 2
+- was math your favourite subject in school
+- are you good with maths
+- how good are you with maths
+- was maths your favourite subject in school
+- 6 / 3 =
+- 5 _ 4 equals
+- 2 + 3 equals
+- which is your favourite topic in maths
+- tell to me what is the thing that you like in maths
+- me the first thing that comes in your mind when you read the word maths
+- do you like maths from childhood
+- tell to us something about the maths subject
+- what is the one thing that you like the most in maths subject
+- who invented zero
+- 5_0 equals
+- the one thing that you do most like in maths subject
+- what is 2 + 2
+- what is 2 multiplied by 3
+- what is the volume of a cone if the radius is 5 cm
+- whats 2 + 2
+- whats 3 into 3
+- what is 10 / 3
+- what is the square root of 25
+- whats the square of 99
+- whats the cube root of 99
+- whats 99 x 199
+- watch 999 x 199
+- multiply 250 and 350
+- whats 10 + 23
+- what is 2 divided by 2
+- what is 2 - 2
+- what is 2 2
+- square root of 24
+- 2 + 2 and 4 + 4
+- derivative of 52
